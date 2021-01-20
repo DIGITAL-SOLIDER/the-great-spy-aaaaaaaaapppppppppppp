@@ -1,0 +1,14 @@
+.heading 
+{
+    width: 80%;
+    font-size: 22px;
+}
+body
+{
+    color: beige;
+    background-color: cadetblue;
+}
+.name_of_objects, #itter_castle, #St_fromond
+{
+   color: lightpink;
+}
